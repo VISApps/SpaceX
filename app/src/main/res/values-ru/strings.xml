@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpaceX</string>
+    <string name="loadingerror">Произошла ошибка при загрузке данных</string>
+    <string name="reload">Перезагрузить</string>
+    <string name="selectyear">Выбрать год</string>
+    <string name="ok">ОК</string>
+    <string name="nolaunches">Запуски не найдены</string>
+    <string name="nodetails">Описание не найдено</string>
+</resources>

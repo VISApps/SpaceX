@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpaceX</string>
+    <string name="selectyear">Select year</string>
+    <string name="loadingerror">An error occurred while loading data</string>
+    <string name="reload">Reload</string>
+    <string name="nolaunches">Launches not found</string>
+    <string name="nodetails">Description not found</string>
+    <string name="ok">OK</string>
+</resources>
